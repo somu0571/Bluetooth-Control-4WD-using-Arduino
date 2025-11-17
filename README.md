@@ -1,6 +1,6 @@
 # ABOUT MY PROJECT
 This is a Bluetooth Control Car that Control by a Mobile App & is Completely a  Arduino based , you can say its an advance version of RC Control, i.e now longer required required physical remote to operate 
-& now command signal are send via bluetooth , so no longer required of rado signal to operate
+& now command signal are send via bluetooth , so no longer required of radio signal to operate
 
 # COMPONENTS REQUIRED
 1) Chassis
